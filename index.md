@@ -1,3 +1,13 @@
+# 参考資料等
+
+## 使用
+
+## 参考ページ
+
+* [シェーダーのレシピ](https://zenn.dev/r_ngtm/books/shadergraph-cookbook/viewer/lookup-of-recipe)
+
+# 製作スケジュール
+
 ## 10/11(金)
 
 ### 今週の課題予定
