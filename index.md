@@ -1,10 +1,13 @@
 # 参考資料等
 
-## 使用
+## 使用アセット
+
+* **Visual Effect Graph**
 
 ## 参考ページ
 
 * [シェーダーのレシピ](https://zenn.dev/r_ngtm/books/shadergraph-cookbook/viewer/lookup-of-recipe)
+* [GabrielさんのEffectチャンネル](https://www.youtube.com/@GabrielAguiarProd)
 
 # 製作スケジュール
 
